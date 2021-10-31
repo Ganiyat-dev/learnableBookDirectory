@@ -68,5 +68,6 @@ httpServer.listen(3000, () => {
 const router = {
     ping : routeHandler.ping,
     books : routeHandler.Books,
-    notFound : routeHandler.notFound
+    notFound : routeHandler.notFound,
+    users : routeHandler.Users
 }
