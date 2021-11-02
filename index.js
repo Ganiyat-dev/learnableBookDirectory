@@ -71,4 +71,5 @@ const router = {
     notFound : routeHandler.notFound,
     users : routeHandler.Users,
     rentBook: routeHandler.rentBooks,
+    returnBook: routeHandler.returnBooks
 }
