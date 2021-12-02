@@ -1,2 +1,3 @@
-# learnableBookDirectoryTask
-### book directory service using vanilla nodejs
+# book-directory-api
+### book directory api service using vanilla Node.js without framework.
+#### link to the documentation : https://documenter.getpostman.com/view/13110499/UVJeGwSh
